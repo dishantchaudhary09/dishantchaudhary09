@@ -1,16 +1,69 @@
-## Hi there 👋
+# Hi there 👋, I'm Dishant
 
-<!--
-**dishantchaudhary09/dishantchaudhary09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student with a strong interest in web development and problem-solving. I enjoy building projects, learning new technologies, and continuously improving my development skills.
 
-Here are some ideas to get you started:
+## 🚀 Currently Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Learning React and modern frontend development
+- Strengthening Data Structures & Algorithms
+- Building full-stack projects with the MERN stack
+- Improving code quality and Git/GitHub workflow
+
+## 🛠️ Tech Stack
+
+### Languages
+- C
+- C++
+- JavaScript
+- HTML5
+- CSS3
+
+### Frontend
+- React
+- Tailwind CSS
+- Bootstrap
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Postman
+
+## 📚 What I'm Learning
+
+- Advanced React concepts
+- Backend API development
+- Authentication & Authorization
+- Database design
+- DSA for coding interviews
+
+## 🎯 Goals
+
+- Build impactful full-stack applications
+- Contribute to open-source projects
+- Become placement-ready
+- Keep learning and improving every day
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+## 📫 Connect
+
+- GitHub: https://github.com/dishantchaudhary09
+- LinkedIn: www.linkedin.com/in/dishant-chaudhary09
+
+---
+
+*"Consistency beats intensity. Small progress every day leads to big results."*
+
+
