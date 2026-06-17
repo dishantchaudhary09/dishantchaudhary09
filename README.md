@@ -9,33 +9,6 @@ I'm a Computer Science student with a strong interest in web development and pro
 - Building full-stack projects with the MERN stack
 - Improving code quality and Git/GitHub workflow
 
-## 🛠️ Tech Stack
-
-### Languages
-- C
-- C++
-- JavaScript
-- HTML5
-- CSS3
-
-### Frontend
-- React
-- Tailwind CSS
-- Bootstrap
-
-### Backend
-- Node.js
-- Express.js
-
-### Database
-- MongoDB
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- Postman
-
 ## 📚 What I'm Learning
 
 - Advanced React concepts
