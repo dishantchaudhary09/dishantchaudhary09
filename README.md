@@ -28,20 +28,22 @@
 
 ---
 
-## 🛸 Current Mission
+<div align="center">
 
-```text
+<h2>🚀 Current Mission</h2>
+
+<pre>
 ╭──────────────────────────────────────────────╮
-│ 🚀 Building Full Stack Applications          │
-│ ⚙️ Mastering MERN Stack                      │
-│ 🔥 Developing Scalable REST APIs             │
-│ 🧩 Solving DSA Problems Daily                │
-│ 🗄️ Learning Database Design                  │
+│ 🚀 Building Modern Full Stack Applications   │
+│ ⚛️ Mastering React, Node.js & Express        │
+│ 🍃 Designing Efficient MongoDB Databases     │
+│ 🔗 Developing Secure REST APIs               │
+│ 🧠 Solving DSA Problems Every Day            │
 │ 🎯 Preparing for Software Engineering Roles  │
 ╰──────────────────────────────────────────────╯
-```
+</pre>
 
----
+</div>
 
 ## 🌐 Connect With Me
 
