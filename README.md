@@ -4,8 +4,9 @@
 
 ### 🚀 MERN Stack Developer | CSE Student | Open Source Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Full+Stack+Web+Developer;Always+Learning+New+Technologies;Building+Awesome+Projects+🚀" alt="Typing SVG"/>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00DBDE,100:FC00FF&height=200&section=header&text=Dishant%20Chaudhary&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+</p>
 ---
 
 ## 💻 Tech Stack
