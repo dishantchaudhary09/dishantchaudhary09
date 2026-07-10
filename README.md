@@ -20,11 +20,11 @@
 
 <p>
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=dishantchaudhary09&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=dishantchaudhary09&theme=tokyonight&hide_border=true"/>
+<img height="170" src="[https://github-readme-streak-stats.herokuapp.com/?user=dishantchaudhary09&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=dishantchaudhary09&theme=tokyonight&hide_border=true)"/>
 </p>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishantchaudhary09&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=dishantchaudhary09&layout=compact&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=dishantchaudhary09&theme=tokyonight&hide_border=true)"/>
 </p>
 
 ---
