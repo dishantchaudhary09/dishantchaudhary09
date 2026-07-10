@@ -49,11 +49,11 @@
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://www.linkedin.com/in/dishant-chaudhary">
+<a href="https://www.linkedin.com/in/dishant-chaudhary09">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:your-webdevdishant@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
