@@ -4,9 +4,7 @@
 
 ### 🚀 MERN Stack Developer | CSE Student | Open Source Enthusiast
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00DBDE,100:FC00FF&height=200&section=header&text=Dishant%20Chaudhary&fontSize=45&fontColor=ffffff&animation=fadeIn" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Dishant+Chaudhary;Full+Stack+Developer;MERN+Stack+Learner" />
 ---
 
 ## 💻 Tech Stack
