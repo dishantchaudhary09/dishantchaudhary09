@@ -28,15 +28,17 @@
 
 ---
 
-## 🚀 Currently Learning
+## 🛸 Current Mission
 
 ```text
-⚡ MERN Stack
-⚡ Backend Development
-⚡ REST APIs
-⚡ MongoDB
-⚡ Data Structures & Algorithms
-⚡ System Design Basics
+╭──────────────────────────────────────────────╮
+│ 🚀 Building Full Stack Applications          │
+│ ⚙️ Mastering MERN Stack                      │
+│ 🔥 Developing Scalable REST APIs             │
+│ 🧩 Solving DSA Problems Daily                │
+│ 🗄️ Learning Database Design                  │
+│ 🎯 Preparing for Software Engineering Roles  │
+╰──────────────────────────────────────────────╯
 ```
 
 ---
